@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+
+# API Key
+aiconfig.env
+
+# My own test cases
+calculator/
+tests.py
+
+# Python cache/compiled files
+__pycache__/
+*.pyc
+
+# OS junk files
+.DS-StoreThumbs.db
